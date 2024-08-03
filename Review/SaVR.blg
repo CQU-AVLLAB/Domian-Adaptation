@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: SaVR.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: MyPaperReference.bib
+Repeated entry---line 637 of file MyPaperReference.bib
+ : @article{chen2020survey
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1259 of file MyPaperReference.bib
+ : @article{zhang2022dino
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1829 of file MyPaperReference.bib
+ : @article{zeng2022small
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1901 of file MyPaperReference.bib
+ : @article{beal2020toward
+ :                        ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in simonyan2014very
+
+Done.
+You've used 99 entries,
+            3975 wiz_defined-function locations,
+            1900 strings with 39374 characters,
+and the built_in function-call counts, 84419 in all, are:
+= -- 6343
+> -- 2716
+< -- 650
++ -- 1480
+- -- 565
+* -- 4098
+:= -- 11784
+add.period$ -- 214
+call.type$ -- 99
+change.case$ -- 99
+chr.to.int$ -- 1578
+cite$ -- 100
+duplicate$ -- 6043
+empty$ -- 6890
+format.name$ -- 621
+if$ -- 19675
+int.to.chr$ -- 0
+int.to.str$ -- 99
+missing$ -- 1137
+newline$ -- 317
+num.names$ -- 99
+pop$ -- 2895
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 6468
+stack$ -- 0
+substring$ -- 4003
+swap$ -- 4926
+text.length$ -- 124
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 0
+warning$ -- 1
+while$ -- 352
+width$ -- 101
+write$ -- 934
+(There were 4 error messages)

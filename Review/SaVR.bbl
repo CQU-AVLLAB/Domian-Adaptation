@@ -1,0 +1,553 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{lin2017feature}
+T.-Y. Lin, P.~Doll{\'a}r, R.~Girshick, K.~He, B.~Hariharan, and S.~Belongie,
+  ``Feature pyramid networks for object detection,'' in \emph{Proceedings of
+  the IEEE conference on computer vision and pattern recognition}, 2017, pp.
+  2117--2125.
+
+\bibitem{lin2017focal}
+T.-Y. Lin, P.~Goyal, R.~Girshick, K.~He, and P.~Doll{\'a}r, ``Focal loss for
+  dense object detection,'' in \emph{Proceedings of the IEEE international
+  conference on computer vision}, 2017, pp. 2980--2988.
+
+\bibitem{carion2020end}
+N.~Carion, F.~Massa, G.~Synnaeve, N.~Usunier, A.~Kirillov, and S.~Zagoruyko,
+  ``End-to-end object detection with transformers,'' in \emph{European
+  conference on computer vision}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Springer, 2020, pp. 213--229.
+
+\bibitem{lin2014microsoft}
+T.-Y. Lin, M.~Maire, S.~Belongie, J.~Hays, P.~Perona, D.~Ramanan,
+  P.~Doll{\'a}r, and C.~L. Zitnick, ``Microsoft coco: Common objects in
+  context,'' in \emph{Computer Vision--ECCV 2014: 13th European Conference,
+  Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Springer, 2014, pp. 740--755.
+
+\bibitem{everingham2010pascal}
+M.~Everingham, L.~Van~Gool, C.~K. Williams, J.~Winn, and A.~Zisserman, ``The
+  pascal visual object classes (voc) challenge,'' \emph{International journal
+  of computer vision}, vol.~88, pp. 303--338, 2010.
+
+\bibitem{dollar2011pedestrian}
+P.~Dollar, C.~Wojek, B.~Schiele, and P.~Perona, ``Pedestrian detection: An
+  evaluation of the state of the art,'' \emph{IEEE transactions on pattern
+  analysis and machine intelligence}, vol.~34, no.~4, pp. 743--761, 2011.
+
+\bibitem{deng2009imagenet}
+J.~Deng, W.~Dong, R.~Socher, L.-J. Li, K.~Li, and L.~Fei-Fei, ``Imagenet: A
+  large-scale hierarchical image database,'' in \emph{2009 IEEE conference on
+  computer vision and pattern recognition}.\hskip 1em plus 0.5em minus
+  0.4em\relax Ieee, 2009, pp. 248--255.
+
+\bibitem{aggarwal2021generative}
+A.~Aggarwal, M.~Mittal, and G.~Battineni, ``Generative adversarial network: An
+  overview of theory and applications,'' \emph{International Journal of
+  Information Management Data Insights}, vol.~1, no.~1, p. 100004, 2021.
+
+\bibitem{dosovitskiy2020image}
+A.~Dosovitskiy, L.~Beyer, A.~Kolesnikov, D.~Weissenborn, X.~Zhai,
+  T.~Unterthiner, M.~Dehghani, M.~Minderer, G.~Heigold, S.~Gelly,
+  \emph{et~al.}, ``An image is worth 16x16 words: Transformers for image
+  recognition at scale,'' \emph{arXiv preprint arXiv:2010.11929}, 2020.
+
+\bibitem{zhu2020deformable}
+X.~Zhu, W.~Su, L.~Lu, B.~Li, X.~Wang, and J.~Dai, ``Deformable detr: Deformable
+  transformers for end-to-end object detection,'' \emph{arXiv preprint
+  arXiv:2010.04159}, 2020.
+
+\bibitem{beal2020toward}
+J.~Beal, E.~Kim, E.~Tzeng, D.~H. Park, A.~Zhai, and D.~Kislyuk, ``Toward
+  transformer-based object detection,'' \emph{arXiv preprint arXiv:2012.09958},
+  2020.
+
+\bibitem{rekavandi2023transformers}
+A.~M. Rekavandi, S.~Rashidi, F.~Boussaid, S.~Hoefs, E.~Akbas, \emph{et~al.},
+  ``Transformers in small object detection: A benchmark and survey of
+  state-of-the-art,'' \emph{arXiv preprint arXiv:2309.04902}, 2023.
+
+\bibitem{wahyudi2022toward}
+D.~Wahyudi, I.~Soesanti, and H.~A. Nugroho, ``Toward detection of small objects
+  using deep learning methods: a review,'' in \emph{2022 14th International
+  Conference on Information Technology and Electrical Engineering
+  (ICITEE)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2022, pp. 314--319.
+
+\bibitem{tong2022deep}
+K.~Tong and Y.~Wu, ``Deep learning-based detection from the perspective of
+  small or tiny objects: A survey,'' \emph{Image and Vision Computing}, vol.
+  123, p. 104471, 2022.
+
+\bibitem{liu2021survey}
+Y.~Liu, P.~Sun, N.~Wergeles, and Y.~Shang, ``A survey and performance
+  evaluation of deep learning methods for small object detection,''
+  \emph{Expert Systems with Applications}, vol. 172, p. 114602, 2021.
+
+\bibitem{chen2020survey}
+G.~Chen, H.~Wang, K.~Chen, Z.~Li, Z.~Song, Y.~Liu, W.~Chen, and A.~Knoll, ``A
+  survey of the four pillars for small object detection: Multiscale
+  representation, contextual information, super-resolution, and region
+  proposal,'' \emph{IEEE Transactions on systems, man, and cybernetics:
+  systems}, vol.~52, no.~2, pp. 936--953, 2020.
+
+\bibitem{tong2020recent}
+K.~Tong, Y.~Wu, and F.~Zhou, ``Recent advances in small object detection based
+  on deep learning: A review,'' \emph{Image and Vision Computing}, vol.~97, p.
+  103910, 2020.
+
+\bibitem{redmon2017yolo9000}
+J.~Redmon and A.~Farhadi, ``Yolo9000: better, faster, stronger,'' in
+  \emph{Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, 2017, pp. 7263--7271.
+
+\bibitem{bochkovskiy2020yolov4}
+A.~Bochkovskiy, C.-Y. Wang, and H.-Y.~M. Liao, ``Yolov4: Optimal speed and
+  accuracy of object detection,'' \emph{arXiv preprint arXiv:2004.10934}, 2020.
+
+\bibitem{redmon2018yolov3}
+J.~Redmon and A.~Farhadi, ``Yolov3: An incremental improvement,'' \emph{arXiv
+  preprint arXiv:1804.02767}, 2018.
+
+\bibitem{li2022yolov6}
+C.~Li, L.~Li, H.~Jiang, K.~Weng, Y.~Geng, L.~Li, Z.~Ke, Q.~Li, M.~Cheng,
+  W.~Nie, \emph{et~al.}, ``Yolov6: A single-stage object detection framework
+  for industrial applications,'' \emph{arXiv preprint arXiv:2209.02976}, 2022.
+
+\bibitem{redmon2016you}
+J.~Redmon, S.~Divvala, R.~Girshick, and A.~Farhadi, ``You only look once:
+  Unified, real-time object detection,'' in \emph{Proceedings of the IEEE
+  conference on computer vision and pattern recognition}, 2016, pp. 779--788.
+
+\bibitem{zhang2023superyolo}
+J.~Zhang, J.~Lei, W.~Xie, Z.~Fang, Y.~Li, and Q.~Du, ``Superyolo: Super
+  resolution assisted object detection in multimodal remote sensing imagery,''
+  \emph{IEEE Transactions on Geoscience and Remote Sensing}, vol.~61, pp.
+  1--15, 2023.
+
+\bibitem{hou2022sr}
+B.~Hou, X.~Chen, S.~Zhou, H.~Jiang, and H.~Wang, ``Sr-yolo: Small objects
+  detection based on super resolution,'' in \emph{International Conference on
+  Intelligence Science}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2022,
+  pp. 352--362.
+
+\bibitem{liu2016ssd}
+W.~Liu, D.~Anguelov, D.~Erhan, C.~Szegedy, S.~Reed, C.-Y. Fu, and A.~C. Berg,
+  ``Ssd: Single shot multibox detector,'' in \emph{Computer Vision--ECCV 2016:
+  14th European Conference, Amsterdam, The Netherlands, October 11--14, 2016,
+  Proceedings, Part I 14}.\hskip 1em plus 0.5em minus 0.4em\relax Springer,
+  2016, pp. 21--37.
+
+\bibitem{tan2020efficientdet}
+M.~Tan, R.~Pang, and Q.~V. Le, ``Efficientdet: Scalable and efficient object
+  detection,'' in \emph{Proceedings of the IEEE/CVF conference on computer
+  vision and pattern recognition}, 2020, pp. 10\,781--10\,790.
+
+\bibitem{girshick2014rich}
+R.~Girshick, J.~Donahue, T.~Darrell, and J.~Malik, ``Rich feature hierarchies
+  for accurate object detection and semantic segmentation,'' in
+  \emph{Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, 2014, pp. 580--587.
+
+\bibitem{ren2016faster}
+S.~Ren, K.~He, R.~Girshick, and J.~Sun, ``Faster r-cnn: Towards real-time
+  object detection with region proposal networks,'' \emph{IEEE transactions on
+  pattern analysis and machine intelligence}, vol.~39, no.~6, pp. 1137--1149,
+  2016.
+
+\bibitem{he2017mask}
+K.~He, G.~Gkioxari, P.~Doll{\'a}r, and R.~Girshick, ``Mask r-cnn,'' in
+  \emph{Proceedings of the IEEE international conference on computer vision},
+  2017, pp. 2961--2969.
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  {\L}.~Kaiser, and I.~Polosukhin, ``Attention is all you need,''
+  \emph{Advances in neural information processing systems}, vol.~30, 2017.
+
+\bibitem{medsker2001recurrent}
+L.~R. Medsker, L.~Jain, \emph{et~al.}, ``Recurrent neural networks,''
+  \emph{Design and Applications}, vol.~5, no. 64-67, p.~2, 2001.
+
+\bibitem{zeng2022small}
+N.~Zeng, P.~Wu, Z.~Wang, H.~Li, W.~Liu, and X.~Liu, ``A small-sized object
+  detection oriented multi-scale feature fusion approach with application to
+  defect detection,'' \emph{IEEE Transactions on Instrumentation and
+  Measurement}, vol.~71, pp. 1--14, 2022.
+
+\bibitem{liu2019mr}
+Z.~Liu, J.~Du, F.~Tian, and J.~Wen, ``Mr-cnn: A multi-scale region-based
+  convolutional neural network for small traffic sign recognition,'' \emph{IEEE
+  Access}, vol.~7, pp. 57\,120--57\,128, 2019.
+
+\bibitem{liu2020small}
+Z.~Liu, D.~Li, S.~S. Ge, and F.~Tian, ``Small traffic sign detection from large
+  image,'' \emph{Applied Intelligence}, vol.~50, no.~1, pp. 1--13, 2020.
+
+\bibitem{hu2018squeeze}
+J.~Hu, L.~Shen, and G.~Sun, ``Squeeze-and-excitation networks,'' in
+  \emph{Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, 2018, pp. 7132--7141.
+
+\bibitem{cao2022cf}
+X.~Cao, P.~Yuan, B.~Feng, and K.~Niu, ``Cf-detr: Coarse-to-fine transformers
+  for end-to-end object detection,'' in \emph{Proceedings of the AAAI
+  conference on artificial intelligence}, vol.~36, no.~1, 2022, pp. 185--193.
+
+\bibitem{ma2021oriented}
+T.~Ma, M.~Mao, H.~Zheng, P.~Gao, X.~Wang, S.~Han, E.~Ding, B.~Zhang, and
+  D.~Doermann, ``Oriented object detection with transformer,'' \emph{arXiv
+  preprint arXiv:2106.03146}, 2021.
+
+\bibitem{he2016deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' in \emph{Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, 2016, pp. 770--778.
+
+\bibitem{hu2018small}
+G.~X. Hu, Z.~Yang, L.~Hu, L.~Huang, J.~M. Han, \emph{et~al.}, ``Small object
+  detection with multiscale features,'' \emph{International Journal of Digital
+  Multimedia Broadcasting}, vol. 2018, 2018.
+
+\bibitem{liu2018improving}
+W.~Liu, S.~Liao, W.~Hu, X.~Liang, and Y.~Zhang, ``Improving tiny vehicle
+  detection in complex scenes,'' in \emph{2018 IEEE International Conference on
+  Multimedia and Expo (ICME)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2018, pp. 1--6.
+
+\bibitem{ma2019efficient}
+D.~W. Ma, X.~J. Wu, and H.~Yang, ``Efficient small object detection with an
+  improved region proposal networks,'' in \emph{IOP Conference Series:
+  Materials Science and Engineering}, vol. 533, no.~1.\hskip 1em plus 0.5em
+  minus 0.4em\relax IOP Publishing, 2019, p. 012062.
+
+\bibitem{meng2019block}
+Q.~Meng, H.~Song, G.~Li, Y.~Zhang, and X.~Zhang, ``A block object detection
+  method based on feature fusion networks for autonomous vehicles,''
+  \emph{Complexity}, vol. 2019, pp. 1--14, 2019.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman, ``Very deep convolutional networks for large,''
+  2014.
+
+\bibitem{liang2018small}
+Z.~Liang, J.~Shao, D.~Zhang, and L.~Gao, ``Small object detection using deep
+  feature pyramid networks,'' in \emph{Advances in Multimedia Information
+  Processing--PCM 2018: 19th Pacific-Rim Conference on Multimedia, Hefei,
+  China, September 21-22, 2018, Proceedings, Part III 19}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Springer, 2018, pp. 554--564.
+
+\bibitem{du2018research}
+P.~Du, X.~Qu, T.~Wei, C.~Peng, X.~Zhong, and C.~Chen, ``Research on small size
+  object detection in complex background,'' in \emph{2018 Chinese Automation
+  Congress (CAC)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2018, pp.
+  4216--4220.
+
+\bibitem{liang2022cbnet}
+T.~Liang, X.~Chu, Y.~Liu, Y.~Wang, Z.~Tang, W.~Chu, J.~Chen, and H.~Ling,
+  ``Cbnet: A composite backbone network architecture for object detection,''
+  \emph{IEEE Transactions on Image Processing}, vol.~31, pp. 6893--6906, 2022.
+
+\bibitem{li2022transformer}
+Q.~Li, Y.~Chen, and Y.~Zeng, ``Transformer with transfer cnn for
+  remote-sensing-image object detection,'' \emph{Remote Sensing}, vol.~14,
+  no.~4, p. 984, 2022.
+
+\bibitem{yang2022querydet}
+C.~Yang, Z.~Huang, and N.~Wang, ``Querydet: Cascaded sparse query for
+  accelerating high-resolution small object detection,'' in \emph{Proceedings
+  of the IEEE/CVF Conference on computer vision and pattern recognition}, 2022,
+  pp. 13\,668--13\,677.
+
+\bibitem{meng2021conditional}
+D.~Meng, X.~Chen, Z.~Fan, G.~Zeng, H.~Li, Y.~Yuan, L.~Sun, and J.~Wang,
+  ``Conditional detr for fast training convergence,'' in \emph{Proceedings of
+  the IEEE/CVF international conference on computer vision}, 2021, pp.
+  3651--3660.
+
+\bibitem{wang2022anchor}
+Y.~Wang, X.~Zhang, T.~Yang, and J.~Sun, ``Anchor detr: Query design for
+  transformer-based detector,'' in \emph{Proceedings of the AAAI conference on
+  artificial intelligence}, vol.~36, no.~3, 2022, pp. 2567--2575.
+
+\bibitem{ding2023deot}
+T.~Ding, K.~Feng, Y.~Wei, Y.~Han, and T.~Li, ``Deot: an end-to-end encoder-only
+  transformer object detector,'' \emph{Journal of Real-Time Image Processing},
+  vol.~20, no.~1, p.~1, 2023.
+
+\bibitem{xu2022fea}
+W.~Xu, C.~Zhang, Q.~Wang, and P.~Dai, ``Fea-swin: Foreground enhancement
+  attention swin transformer network for accurate uav-based dense object
+  detection,'' \emph{Sensors}, vol.~22, no.~18, p. 6993, 2022.
+
+\bibitem{xu2023dktnet}
+S.~Xu, J.~Gu, Y.~Hua, and Y.~Liu, ``Dktnet: dual-key transformer network for
+  small object detection,'' \emph{Neurocomputing}, vol. 525, pp. 29--41, 2023.
+
+\bibitem{xu2021improved}
+X.~Xu, Z.~Feng, C.~Cao, M.~Li, J.~Wu, Z.~Wu, Y.~Shang, and S.~Ye, ``An improved
+  swin transformer-based model for remote sensing object detection and instance
+  segmentation,'' \emph{Remote Sensing}, vol.~13, no.~23, p. 4779, 2021.
+
+\bibitem{liu2021swin}
+Z.~Liu, Y.~Lin, Y.~Cao, H.~Hu, Y.~Wei, Z.~Zhang, S.~Lin, and B.~Guo, ``Swin
+  transformer: Hierarchical vision transformer using shifted windows,'' in
+  \emph{Proceedings of the IEEE/CVF international conference on computer
+  vision}, 2021, pp. 10\,012--10\,022.
+
+\bibitem{zeng2022nlfftnet}
+K.~Zeng, Q.~Ma, J.~Wu, S.~Xiang, T.~Shen, and L.~Zhang, ``Nlfftnet: A non-local
+  feature fusion transformer network for multi-scale object detection,''
+  \emph{Neurocomputing}, vol. 493, pp. 15--27, 2022.
+
+\bibitem{lin2019ienet}
+Y.~Lin, P.~Feng, J.~Guan, W.~Wang, and J.~Chambers, ``Ienet: Interacting
+  embranchment one stage anchor free detector for orientation aerial object
+  detection,'' \emph{arXiv preprint arXiv:1912.00969}, 2019.
+
+\bibitem{zhang2022dino}
+H.~Zhang, F.~Li, S.~Liu, L.~Zhang, H.~Su, J.~Zhu, L.~M. Ni, and H.-Y. Shum,
+  ``Dino: Detr with improved denoising anchor boxes for end-to-end object
+  detection,'' \emph{arXiv preprint arXiv:2203.03605}, 2022.
+
+\bibitem{xi2022dycc}
+Y.~Xi, W.~Jia, Q.~Miao, X.~Liu, X.~Fan, and J.~Lou, ``Dycc-net: Dynamic context
+  collection network for input-aware drone-view object detection,''
+  \emph{Remote Sensing}, vol.~14, no.~24, p. 6313, 2022.
+
+\bibitem{sun2022multi}
+P.~Sun, T.~Liu, X.~Chen, S.~Zhang, Y.~Zhao, and S.~Wei, ``Multi-source
+  aggregation transformer for concealed object detection in millimeter-wave
+  images,'' \emph{IEEE Transactions on Circuits and Systems for Video
+  Technology}, vol.~32, no.~9, pp. 6148--6159, 2022.
+
+\bibitem{chen2023htdet}
+G.~Chen, Z.~Mao, K.~Wang, and J.~Shen, ``Htdet: a hybrid transformer-based
+  approach for underwater small object detection,'' \emph{Remote Sensing},
+  vol.~15, no.~4, p. 1076, 2023.
+
+\bibitem{singh2018sniper}
+B.~Singh, M.~Najibi, and L.~S. Davis, ``Sniper: Efficient multi-scale
+  training,'' \emph{Advances in neural information processing systems},
+  vol.~31, 2018.
+
+\bibitem{kim2018san}
+Y.~Kim, B.-N. Kang, and D.~Kim, ``San: Learning relationship between
+  convolutional features for multi-scale object detection,'' in
+  \emph{Proceedings of the European Conference on Computer Vision (ECCV)},
+  2018, pp. 316--331.
+
+\bibitem{bodla2017soft}
+N.~Bodla, B.~Singh, R.~Chellappa, and L.~S. Davis, ``Soft-nms--improving object
+  detection with one line of code,'' in \emph{Proceedings of the IEEE
+  international conference on computer vision}, 2017, pp. 5561--5569.
+
+\bibitem{singh2018analysis}
+B.~Singh and L.~S. Davis, ``An analysis of scale invariance in object detection
+  snip,'' in \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2018, pp. 3578--3587.
+
+\bibitem{song2021vidt}
+H.~Song, D.~Sun, S.~Chun, V.~Jampani, D.~Han, B.~Heo, W.~Kim, and M.-H. Yang,
+  ``Vidt: An efficient and effective fully transformer-based object detector,''
+  \emph{arXiv preprint arXiv:2110.03921}, 2021.
+
+\bibitem{maaz2021multi}
+M.~Maaz, H.~B. Rasheed, S.~H. Khan, F.~S. Khan, R.~M. Anwer, and M.-H. Yang,
+  ``Multi-modal transformers excel at class-agnostic object detection,''
+  \emph{arXiv}, 2021.
+
+\bibitem{chawla2002smote}
+N.~V. Chawla, K.~W. Bowyer, L.~O. Hall, and W.~P. Kegelmeyer, ``Smote:
+  synthetic minority over-sampling technique,'' \emph{Journal of artificial
+  intelligence research}, vol.~16, pp. 321--357, 2002.
+
+\bibitem{inoue2018data}
+H.~Inoue, ``Data augmentation by pairing samples for images classification,''
+  \emph{arXiv preprint arXiv:1801.02929}, 2018.
+
+\bibitem{cubuk2018autoaugment}
+E.~D. Cubuk, B.~Zoph, D.~Mane, V.~Vasudevan, and Q.~V. Le, ``Autoaugment:
+  Learning augmentation policies from data,'' \emph{arXiv preprint
+  arXiv:1805.09501}, 2018.
+
+\bibitem{ding2023sw}
+J.~Ding, W.~Li, L.~Pei, M.~Yang, C.~Ye, and B.~Yuan, ``Sw-yolox: An anchor-free
+  detector based transformer for sea surface object detection,'' \emph{Expert
+  Systems with Applications}, vol. 217, p. 119560, 2023.
+
+\bibitem{wang2021fp}
+W.~Wang, Y.~Cao, J.~Zhang, and D.~Tao, ``Fp-detr: Detection transformer
+  advanced by fully pre-training,'' in \emph{International Conference on
+  Learning Representations}, 2021.
+
+\bibitem{chen2022group}
+Q.~Chen, J.~Wang, C.~Han, S.~Zhang, Z.~Li, X.~Chen, J.~Chen, X.~Wang, S.~Han,
+  G.~Zhang, \emph{et~al.}, ``Group detr v2: Strong object detector with
+  encoder-decoder pretraining,'' \emph{arXiv preprint arXiv:2211.03594}, 2022.
+
+\bibitem{li2022dn}
+F.~Li, H.~Zhang, S.~Liu, J.~Guo, L.~M. Ni, and L.~Zhang, ``Dn-detr: Accelerate
+  detr training by introducing query denoising,'' in \emph{Proceedings of the
+  IEEE/CVF conference on computer vision and pattern recognition}, 2022, pp.
+  13\,619--13\,627.
+
+\bibitem{zhu2021tph}
+X.~Zhu, S.~Lyu, X.~Wang, and Q.~Zhao, ``Tph-yolov5: Improved yolov5 based on
+  transformer prediction head for object detection on drone-captured
+  scenarios,'' in \emph{Proceedings of the IEEE/CVF international conference on
+  computer vision}, 2021, pp. 2778--2788.
+
+\bibitem{zhou2022transvod}
+Q.~Zhou, X.~Li, L.~He, Y.~Yang, G.~Cheng, Y.~Tong, L.~Ma, and D.~Tao,
+  ``Transvod: end-to-end video object detection with spatial-temporal
+  transformers,'' \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 2022.
+
+\bibitem{liu2021aerial}
+C.~Liu, S.~Xu, and B.~Zhang, ``Aerial small object tracking with
+  transformers,'' in \emph{2021 IEEE International Conference on Unmanned
+  Systems (ICUS)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2021, pp.
+  954--959.
+
+\bibitem{hashmi2022spatio}
+K.~A. Hashmi, D.~Stricker, and M.~Z. Afzal, ``Spatio-temporal learnable
+  proposals for end-to-end video object detection,'' \emph{arXiv preprint
+  arXiv:2210.02368}, 2022.
+
+\bibitem{wang2022ptseformer}
+H.~Wang, J.~Tang, X.~Liu, S.~Guan, R.~Xie, and L.~Song, ``Ptseformer:
+  Progressive temporal-spatial enhanced transformer towards video object
+  detection,'' in \emph{European Conference on Computer Vision}.\hskip 1em plus
+  0.5em minus 0.4em\relax Springer, 2022, pp. 732--747.
+
+\bibitem{cui2023faq}
+Y.~Cui and L.~Yang, ``Faq: Feature aggregated queries for transformer-based
+  video object detectors,'' \emph{arXiv preprint arXiv:2303.08319}, 2023.
+
+\bibitem{liu2022dab}
+S.~Liu, F.~Li, H.~Zhang, X.~Yang, X.~Qi, H.~Su, J.~Zhu, and L.~Zhang,
+  ``Dab-detr: Dynamic anchor boxes are better queries for detr,'' \emph{arXiv
+  preprint arXiv:2201.12329}, 2022.
+
+\bibitem{yang2016wider}
+S.~Yang, P.~Luo, C.-C. Loy, and X.~Tang, ``Wider face: A face detection
+  benchmark,'' in \emph{Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, 2016, pp. 5525--5533.
+
+\bibitem{goldman2019precise}
+E.~Goldman, R.~Herzig, A.~Eisenschtat, J.~Goldberger, and T.~Hassner, ``Precise
+  detection in densely packed scenes,'' in \emph{Proceedings of the IEEE/CVF
+  conference on computer vision and pattern recognition}, 2019, pp. 5227--5236.
+
+\bibitem{yu2022dair}
+H.~Yu, Y.~Luo, M.~Shu, Y.~Huo, Z.~Yang, Y.~Shi, Z.~Guo, H.~Li, X.~Hu, J.~Yuan,
+  \emph{et~al.}, ``Dair-v2x: A large-scale dataset for vehicle-infrastructure
+  cooperative 3d object detection,'' in \emph{Proceedings of the IEEE/CVF
+  Conference on Computer Vision and Pattern Recognition}, 2022, pp.
+  21\,361--21\,370.
+
+\bibitem{chang2019argoverse}
+M.-F. Chang, J.~Lambert, P.~Sangkloy, J.~Singh, S.~Bak, A.~Hartnett, D.~Wang,
+  P.~Carr, S.~Lucey, D.~Ramanan, \emph{et~al.}, ``Argoverse: 3d tracking and
+  forecasting with rich maps,'' in \emph{Proceedings of the IEEE/CVF conference
+  on computer vision and pattern recognition}, 2019, pp. 8748--8757.
+
+\bibitem{hwang2015multispectral}
+S.~Hwang, J.~Park, N.~Kim, Y.~Choi, and I.~So~Kweon, ``Multispectral pedestrian
+  detection: Benchmark dataset and baseline,'' in \emph{Proceedings of the IEEE
+  conference on computer vision and pattern recognition}, 2015, pp. 1037--1045.
+
+\bibitem{cordts2016cityscapes}
+M.~Cordts, M.~Omran, S.~Ramos, T.~Rehfeld, M.~Enzweiler, R.~Benenson,
+  U.~Franke, S.~Roth, and B.~Schiele, ``The cityscapes dataset for semantic
+  urban scene understanding,'' in \emph{Proceedings of the IEEE conference on
+  computer vision and pattern recognition}, 2016, pp. 3213--3223.
+
+\bibitem{xia2018dota}
+G.-S. Xia, X.~Bai, J.~Ding, Z.~Zhu, S.~Belongie, J.~Luo, M.~Datcu, M.~Pelillo,
+  and L.~Zhang, ``Dota: A large-scale dataset for object detection in aerial
+  images,'' in \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2018, pp. 3974--3983.
+
+\bibitem{liu2017high}
+Z.~Liu, L.~Yuan, L.~Weng, and Y.~Yang, ``A high resolution optical satellite
+  image dataset for ship recognition and some new baselines,'' in
+  \emph{International conference on pattern recognition applications and
+  methods}, vol.~2.\hskip 1em plus 0.5em minus 0.4em\relax SciTePress, 2017,
+  pp. 324--331.
+
+\bibitem{zhu2015orientation}
+H.~Zhu, X.~Chen, W.~Dai, K.~Fu, Q.~Ye, and J.~Jiao, ``Orientation robust object
+  detection in aerial images using deep convolutional neural network,'' in
+  \emph{2015 IEEE International Conference on Image Processing (ICIP)}.\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, 2015, pp. 3735--3739.
+
+\bibitem{mueller2016benchmark}
+M.~Mueller, N.~Smith, and B.~Ghanem, ``A benchmark and simulator for uav
+  tracking,'' in \emph{Computer Vision--ECCV 2016: 14th European Conference,
+  Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part I
+  14}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2016, pp. 445--461.
+
+\bibitem{han2021redet}
+J.~Han, J.~Ding, N.~Xue, and G.-S. Xia, ``Redet: A rotation-equivariant
+  detector for aerial object detection,'' in \emph{Proceedings of the IEEE/CVF
+  conference on computer vision and pattern recognition}, 2021, pp. 2786--2795.
+
+\bibitem{yu2021active}
+Y.~Yu, L.~Qiao, Y.~Wang, and Z.~Zhao, ``Active millimeter wave
+  three-dimensional scan real-time imaging mechanism with a line antenna
+  array,'' \emph{arXiv preprint arXiv:2102.04878}, 2021.
+
+\bibitem{yang2024mm}
+J.~Yang, H.~Huang, Y.~Zhou, X.~Chen, Y.~Xu, S.~Yuan, H.~Zou, C.~X. Lu, and
+  L.~Xie, ``Mm-fi: Multi-modal non-intrusive 4d human dataset for versatile
+  wireless sensing,'' \emph{Advances in Neural Information Processing Systems},
+  vol.~36, 2024.
+
+\bibitem{caesar2020nuscenes}
+H.~Caesar, V.~Bankiti, A.~H. Lang, S.~Vora, V.~E. Liong, Q.~Xu, A.~Krishnan,
+  Y.~Pan, G.~Baldan, and O.~Beijbom, ``nuscenes: A multimodal dataset for
+  autonomous driving,'' in \emph{Proceedings of the IEEE/CVF conference on
+  computer vision and pattern recognition}, 2020, pp. 11\,621--11\,631.
+
+\bibitem{schumann2021radarscenes}
+O.~Schumann, M.~Hahn, N.~Scheiner, F.~Weishaupt, J.~F. Tilly, J.~Dickmann, and
+  C.~W{\"o}hler, ``Radarscenes: A real-world radar point cloud data set for
+  automotive applications,'' in \emph{2021 IEEE 24th International Conference
+  on Information Fusion (FUSION)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2021, pp. 1--8.
+
+\bibitem{xiaolin2022small}
+F.~Xiaolin, H.~Fan, Y.~Ming, Z.~Tongxin, B.~Ran, Z.~Zenghui, and G.~Zhiyuan,
+  ``Small object detection in remote sensing images based on
+  super-resolution,'' \emph{Pattern Recognition Letters}, vol. 153, pp.
+  107--112, 2022.
+
+\bibitem{law2018cornernet}
+H.~Law and J.~Deng, ``Cornernet: Detecting objects as paired keypoints,'' in
+  \emph{Proceedings of the European conference on computer vision (ECCV)},
+  2018, pp. 734--750.
+
+\bibitem{zhou2019bottom}
+X.~Zhou, J.~Zhuo, and P.~Krahenbuhl, ``Bottom-up object detection by grouping
+  extreme and center points,'' in \emph{Proceedings of the IEEE/CVF conference
+  on computer vision and pattern recognition}, 2019, pp. 850--859.
+
+\end{thebibliography}
